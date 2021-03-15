@@ -1,6 +1,5 @@
 <template>
   <div>
-]
       <ul>
         <li ><router-link to="/" exact>Home</router-link></li>
         <li><router-link to="/orders" exact>Orders</router-link></li>
